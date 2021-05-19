@@ -5,7 +5,7 @@ const Home = () => {
   return (
     <section>
       <Titulo texto="Home" />
-      <p>Essa é a home</p>
+      <p>Essa é a home!</p>
     </section>
   );
 };
